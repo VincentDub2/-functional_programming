@@ -1,0 +1,12 @@
+[info] downloading https://repo1.maven.org/maven2/org/apache/spark/spark-sql_3/3.5.0/spark-sql_3-3.5.0.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/spark/spark-core_3/3.5.0/spark-core_3-3.5.0.pom
+[info] downloading https://repo1.maven.org/maven2/org/mongodb/spark/mongo-spark-connector_3/10.1.0/mongo-spark-connector_3-10.1.0.pom
+[info] downloaded https://repo1.maven.org/maven2/org/mongodb/spark/mongo-spark-connector_3/10.1.0/mongo-spark-connector_3-10.1.0.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-sql_3/3.5.0/spark-sql_3-3.5.0.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-core_3/3.5.0/spark-core_3-3.5.0.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/spark/spark-sql_3/3.5.0/spark-sql_3-3.5.0.pom.sha1
+[info] downloading https://repo1.maven.org/maven2/org/mongodb/spark/mongo-spark-connector_3/10.1.0/mongo-spark-connector_3-10.1.0.pom.sha1
+[info] downloading https://repo1.maven.org/maven2/org/apache/spark/spark-core_3/3.5.0/spark-core_3-3.5.0.pom.sha1
+[info] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-sql_3/3.5.0/spark-sql_3-3.5.0.pom.sha1
+[info] downloaded https://repo1.maven.org/maven2/org/mongodb/spark/mongo-spark-connector_3/10.1.0/mongo-spark-connector_3-10.1.0.pom.sha1
+[info] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-core_3/3.5.0/spark-core_3-3.5.0.pom.sha1
